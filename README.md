@@ -1,4 +1,4 @@
--  👋  Hi, I'm @ Neko Teppei
+-  👋  Hi, I'm @ Iris Wei
 -  👀  I am interested in ROS and autonomous driving
 -  🌱  I am learning ROS and autopilot now
 -  💞 I hope to have my own home in the world
